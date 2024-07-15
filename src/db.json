@@ -1,0 +1,30 @@
+{
+  "customers": [
+    { "id": 1, "name": "Ahmed Ali" },
+    { "id": 2, "name": "Aya Elsayed" },
+    { "id": 3, "name": "Mina Adel" },
+    { "id": 4, "name": "Sarah Reda" },
+    { "id": 5, "name": "Mohamed Ahmed" },
+    { "id": 6, "name": "Amr Sayed" },
+    { "id": 7, "name": "Ahmed Atef" },
+    { "id": 8, "name": "Mayar Amr" }
+  ],
+  "transactions": [
+    { "id": 1, "customer_id": 1, "date": "2022-01-01", "amount": 1000 },
+    { "id": 2, "customer_id": 1, "date": "2022-01-02", "amount": 2000 },
+    { "id": 2, "customer_id": 1, "date": "2022-01-05", "amount": 1500 },
+    { "id": 3, "customer_id": 2, "date": "2022-01-01", "amount": 550 },
+    { "id": 4, "customer_id": 3, "date": "2022-01-01", "amount": 500 },
+    { "id": 5, "customer_id": 2, "date": "2022-01-02", "amount": 1300 },
+    { "id": 6, "customer_id": 4, "date": "2022-01-01", "amount": 750 },
+    { "id": 7, "customer_id": 3, "date": "2022-01-02", "amount": 1250 },
+    { "id": 8, "customer_id": 5, "date": "2022-01-01", "amount": 2500 },
+    { "id": 9, "customer_id": 6, "date": "2022-01-23", "amount": 875 },
+    { "id": 9, "customer_id": 8, "date": "2022-04-30", "amount": 450 },
+    { "id": 9, "customer_id": 4, "date": "2022-05-02", "amount": 900 },
+    { "id": 9, "customer_id": 6, "date": "2022-04-17", "amount": 1810 },
+    { "id": 9, "customer_id": 6, "date": "2022-07-07", "amount": 1756 },
+    { "id": 9, "customer_id": 7, "date": "2022-08-23", "amount": 578 },
+    { "id": 9, "customer_id": 8, "date": "2022-12-09", "amount": 3478  }
+  ]
+}
